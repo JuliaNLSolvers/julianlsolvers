@@ -3,4 +3,4 @@ title: JuliaNLSolvers
 description: Julia packages for solving systems of nonlinear equations and minimizing nonlinear functions 
 
 github:
-  url: https://github.com/JuliaNLSolvers
+  repository_url: https://github.com/JuliaNLSolvers
