@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: JuliaNLSolvers
-description: Julia packages for solving systems of nonlinear equations and minimizing nonlinear functions 
+description: Julia packages for nonlinear optimization and systems of equations
 
 github:
   repository_url: https://github.com/JuliaNLSolvers
