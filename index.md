@@ -5,5 +5,6 @@ JuliaNLSolvers is a collection of packages that solve problems faced by many res
 ### Optim.jl
 ### NLsolve.jl
 ### LsqFit.jl
-
+### Other packages
 #### LineSearches.jl
+#### NLSolversBase.jl
