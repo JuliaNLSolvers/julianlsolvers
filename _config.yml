@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: JuliaNLSolvers
+description: Julia packages for solving systems of nonlinear equations and minimizing nonlinear functions 
